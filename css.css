@@ -1,3 +1,10 @@
 h1 {
-  color: red;
+  color: blue;
+  background: grey;
+  text-align: center;
+}
+
+p{
+	text-align: center;
+	color: blue;
 }
